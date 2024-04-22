@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfoliowebsite/static/css/main.37a10b46.css",
-    "main.js": "/portfoliowebsite/static/js/main.7c3d9302.js",
+    "main.js": "/portfoliowebsite/static/js/main.67e6c835.js",
     "static/js/453.aac68abc.chunk.js": "/portfoliowebsite/static/js/453.aac68abc.chunk.js",
     "static/media/josue limouzaine 1.png": "/portfoliowebsite/static/media/josue limouzaine 1.7f889f73b06145ad3374.png",
     "static/media/image-removebg-preview.png": "/portfoliowebsite/static/media/image-removebg-preview.2d5d53bddffe3d4725d8.png",
@@ -10,11 +10,11 @@
     "static/media/meditations.jpg": "/portfoliowebsite/static/media/meditations.a18d7bdb0abfa47058ad.jpg",
     "index.html": "/portfoliowebsite/index.html",
     "main.37a10b46.css.map": "/portfoliowebsite/static/css/main.37a10b46.css.map",
-    "main.7c3d9302.js.map": "/portfoliowebsite/static/js/main.7c3d9302.js.map",
+    "main.67e6c835.js.map": "/portfoliowebsite/static/js/main.67e6c835.js.map",
     "453.aac68abc.chunk.js.map": "/portfoliowebsite/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37a10b46.css",
-    "static/js/main.7c3d9302.js"
+    "static/js/main.67e6c835.js"
   ]
 }
